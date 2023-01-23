@@ -19,6 +19,11 @@
   margin-bottom: 8px;
 }
 
+.blog-preview a {
+  text-decoration: none;
+  color: ;
+}
+
 .loading-view {
   position: absolute;
   inset: 0;

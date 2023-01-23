@@ -7,9 +7,9 @@
       "id": 1
     },
     {
-      "title": "My first blog 2",
-      "body": "Lorem ipsum",
-      "author": "Pavle",
+      "title": "My first Blog",
+      "body": "Hello world",
+      "author": "nevena",
       "id": 2
     }
   ]
